@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>bold-text.png</file>
+        <file>superscript_icon.png</file>
+        <file>subscript_icon.png</file>
+    </qresource>
+</RCC>
