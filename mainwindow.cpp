@@ -51,11 +51,6 @@ void MainWindow::on_actionSubscript_triggered()
 
 void MainWindow::on_actionAbout_me_triggered()
 {
-    //ui->textEdit->setText("Chirayu Pranav Darji");
-    //ui->textEdit->setText("DDU");
-    //QString labelText = "<P><b><i><font color='#ff0000' font_size=4>";
-    //labelText .append("Text what u want to display");
-    //labelText .append("</font></i></b></P></br>");
     ui->textEdit->setText("<h1> Chirayu Pranav Darji</h1>"
                           "<h2> B.Tech. Electronics & Communication Engineering</h2>\n"
                           "<b> email:</b> chirayudarji2000@gmail.com \n"
