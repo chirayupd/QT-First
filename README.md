@@ -28,6 +28,7 @@ Then the code for these were written in the mainwindow.cpp
    This issue was resolved by using the setFontWeight function.
 2. Issues was faced to use the push button for displaying the resume
    This issue was resolved by using a other approach rather than going with the push button.
+3. There were errors of no mathcing signal found for triggered actions while making the edits in OpenOCRCorrect.
    
 ### Features
 
