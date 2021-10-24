@@ -2,6 +2,8 @@
 
 ### How to run the code?
 
+#### Qt Files
+
 1. Open the project file: Bold.pro in the QT software
 2. Click the run button to build the project.
 3. Write some text in the text editor window.
@@ -9,6 +11,11 @@
 5. Select the options Bold / Unbold / Superscript / Subscript as required.
 6. To read my Resume, click on About Me option on the top left corner.
 7. Select the option to read resume.
+
+#### OpenOCR Files
+
+1. Open the qpadfinal.pro in QT software
+2. Run the file
 
 ### What has been done?
 
